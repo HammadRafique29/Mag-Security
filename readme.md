@@ -1,7 +1,3 @@
-Here’s a clean and attractive `README.md` file based on your script. It’s written with clarity in mind for developers, while still showcasing the script’s features without relying on too many visuals:
-
----
-
 # 🔐 Personal Security Toolkit
 
 A simple yet powerful command-line Python application for securely encrypting and decrypting text messages or spreadsheet data. This tool also supports reading from local Excel files or public Google Sheets.
