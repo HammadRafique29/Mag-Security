@@ -1,0 +1,6 @@
+venv
+__pycac*
+.env
+*rypted_outputs
+dist
+build
