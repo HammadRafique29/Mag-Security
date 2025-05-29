@@ -4,3 +4,5 @@ __pycac*
 *rypted_outputs
 dist
 build
+*_logo*
+*.spec

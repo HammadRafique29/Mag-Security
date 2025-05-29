@@ -19,8 +19,8 @@ from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
 
 IS_WINDOWS_OS = platform.system() == "Windows"
-ENCRYPTED_OUTPUT = os.path.join(os.getcwd(), "encrypted_outpus")
-DECRYPTED_OUTPUT = os.path.join(os.getcwd(), "decrypted_outpus")
+ENCRYPTED_OUTPUT = os.path.join(os.getcwd(), "encrypted_outputs")
+DECRYPTED_OUTPUT = os.path.join(os.getcwd(), "decrypted_outputs")
 
 if not os.path.exists(ENCRYPTED_OUTPUT): os.mkdir(ENCRYPTED_OUTPUT)
 if not os.path.exists(DECRYPTED_OUTPUT): os.mkdir(DECRYPTED_OUTPUT)
