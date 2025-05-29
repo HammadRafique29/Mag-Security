@@ -1,0 +1,7 @@
+Encrypted on: 2025-05-29
+Algorithm: AES-256-CBC
+Key Derivation: PBKDF2HMAC (SHA256, 100k iterations)
+Salt: first 16 bytes of b64 string
+IV: next 16 bytes
+Ciphertext: remainder
+Password required
