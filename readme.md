@@ -22,8 +22,8 @@ python3 magSecurity.py
 ```
 
 ## Download & Release:
-- <a href="">Linux Release (deb)</a> 
-- <a href="">Windows Release (.exe)</a> 
+- <a href="https://github.com/HammadRafique29/Mag-Security/releases">Linux Release (deb)</a> 
+- <a href="https://github.com/HammadRafique29/Mag-Security/releases">Windows Release (.exe)</a> 
 
 <br>
 
@@ -46,13 +46,13 @@ python3 magSecurity.py
 * Google Sheets (Public URL)
 * Planning For File Encryption (**Coming Soon**)
 
-
-
 ### Folder Structure:
 
 - `encrypted_outpus/`
 - `decrypted_outpus/`
 
+![Screenshot from 2025-05-29 17-44-26](https://github.com/user-attachments/assets/b2e1c928-9790-4a65-b2d3-fae02d0fcff0)
+![Screenshot from 2025-05-29 17-44-51](https://github.com/user-attachments/assets/72c897f1-d10e-40dc-b395-8caa7f64ea5a)
 
 <br>
 
